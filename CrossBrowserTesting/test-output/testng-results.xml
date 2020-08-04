@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Thread Local Test Sanity Suite" duration-ms="17103" started-at="2020-08-04T03:58:57Z" finished-at="2020-08-04T03:59:15Z">
+    <groups>
+    </groups>
+    <test name="Google Test" duration-ms="16185" started-at="2020-08-04T03:58:57Z" finished-at="2020-08-04T03:59:14Z">
+      <class name="com.myTest.GoogleTest">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.myTest.GoogleTest@5ba23b66]" name="setUp" is-config="true" duration-ms="7436" started-at="2020-08-03T23:58:57Z" finished-at="2020-08-03T23:59:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.myTest.GoogleTest@5ba23b66]" name="setUp" is-config="true" duration-ms="8245" started-at="2020-08-03T23:58:57Z" finished-at="2020-08-03T23:59:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.myTest.GoogleTest@5ba23b66]" name="setUp" is-config="true" duration-ms="1561" started-at="2020-08-03T23:58:57Z" finished-at="2020-08-03T23:58:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.myTest.GoogleTest@5ba23b66]" name="setUp" is-config="true" duration-ms="14504" started-at="2020-08-03T23:58:57Z" finished-at="2020-08-03T23:59:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="googleTitleTest_2()[pri:0, instance:com.myTest.GoogleTest@5ba23b66]" name="googleTitleTest_2" duration-ms="13456" started-at="2020-08-03T23:58:59Z" finished-at="2020-08-03T23:59:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleTitleTest_2 -->
+        <test-method status="PASS" signature="googleTitleTest_1()[pri:0, instance:com.myTest.GoogleTest@5ba23b66]" name="googleTitleTest_1" duration-ms="7079" started-at="2020-08-03T23:59:05Z" finished-at="2020-08-03T23:59:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleTitleTest_1 -->
+        <test-method status="PASS" signature="googleTitleTest_4()[pri:0, instance:com.myTest.GoogleTest@5ba23b66]" name="googleTitleTest_4" duration-ms="7828" started-at="2020-08-03T23:59:06Z" finished-at="2020-08-03T23:59:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleTitleTest_4 -->
+        <test-method status="PASS" signature="googleTitleTest_3()[pri:0, instance:com.myTest.GoogleTest@5ba23b66]" name="googleTitleTest_3" duration-ms="1503" started-at="2020-08-03T23:59:12Z" finished-at="2020-08-03T23:59:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleTitleTest_3 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.myTest.GoogleTest@5ba23b66]" name="tearDown" is-config="true" duration-ms="88" started-at="2020-08-03T23:59:12Z" finished-at="2020-08-03T23:59:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.myTest.GoogleTest@5ba23b66]" name="tearDown" is-config="true" duration-ms="83" started-at="2020-08-03T23:59:12Z" finished-at="2020-08-03T23:59:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.myTest.GoogleTest@5ba23b66]" name="tearDown" is-config="true" duration-ms="81" started-at="2020-08-03T23:59:13Z" finished-at="2020-08-03T23:59:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.myTest.GoogleTest@5ba23b66]" name="tearDown" is-config="true" duration-ms="98" started-at="2020-08-03T23:59:14Z" finished-at="2020-08-03T23:59:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.myTest.GoogleTest -->
+    </test> <!-- Google Test -->
+    <test name="FaceBook Test" duration-ms="17103" started-at="2020-08-04T03:58:57Z" finished-at="2020-08-04T03:59:15Z">
+      <class name="com.myTest.FaceBookTest">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.myTest.FaceBookTest@49e4cb85]" name="setUp" is-config="true" duration-ms="4175" started-at="2020-08-03T23:58:57Z" finished-at="2020-08-03T23:59:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.myTest.FaceBookTest@49e4cb85]" name="setUp" is-config="true" duration-ms="6439" started-at="2020-08-03T23:58:57Z" finished-at="2020-08-03T23:59:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="facebookTitleTest_2()[pri:0, instance:com.myTest.FaceBookTest@49e4cb85]" name="facebookTitleTest_2" duration-ms="10609" started-at="2020-08-03T23:59:02Z" finished-at="2020-08-03T23:59:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- facebookTitleTest_2 -->
+        <test-method status="PASS" signature="facebookTitleTest_1()[pri:0, instance:com.myTest.FaceBookTest@49e4cb85]" name="facebookTitleTest_1" duration-ms="8427" started-at="2020-08-03T23:59:04Z" finished-at="2020-08-03T23:59:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- facebookTitleTest_1 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.myTest.FaceBookTest@49e4cb85]" name="tearDown" is-config="true" duration-ms="2222" started-at="2020-08-03T23:59:12Z" finished-at="2020-08-03T23:59:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.myTest.FaceBookTest@49e4cb85]" name="tearDown" is-config="true" duration-ms="2224" started-at="2020-08-03T23:59:12Z" finished-at="2020-08-03T23:59:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.myTest.FaceBookTest -->
+    </test> <!-- FaceBook Test -->
+  </suite> <!-- Thread Local Test Sanity Suite -->
+</testng-results>
